@@ -1,0 +1,501 @@
+Experience,Education,Location,Role,Company_Type,Salary
+6,B.Voc,Thiruvananthapuram,Frontend Developer,Service-Based Company,637723
+3,MBA,Kottayam,Cyber Security Analyst,Startup,532279
+12,BTech,Kollam,AI Engineer,MNC,1125765
+14,ME,Kollam,Business Analyst,Service-Based Company,1050910
+10,MCA,Pathanamthitta,Backend Developer,Service-Based Company,878561
+7,MCom,Ernakulam,Data Analyst,MSME,645131
+12,BE,Kasaragod,Full Stack Developer,PSU,968525
+4,MBA,Kozhikode,Data Analyst,Startup,525861
+6,BCom,Kottayam,Python Developer,Service-Based Company,624385
+9,ME,Alappuzha,DevOps Engineer,Startup,822374
+2,BCom,Idukki,Data Analyst,Product-Based Company,481916
+6,Diploma,Ernakulam,Python Developer,MSME,588197
+10,BTech,Alappuzha,Frontend Developer,Product-Based Company,935628
+10,MTech,Ernakulam,Frontend Developer,Startup,856648
+7,MTech,Ernakulam,AI Engineer,Sole Proprietorship,744365
+4,MCA,Ernakulam,Data Scientist,MNC,762909
+3,BA,Pathanamthitta,Cloud Engineer,Startup,496052
+7,BE,Kasaragod,Data Analyst,PSU,679646
+7,MCA,Kozhikode,Full Stack Developer,Service-Based Company,727013
+2,B.Voc,Ernakulam,Data Analyst,Service-Based Company,401599
+5,B.Voc,Thrissur,Data Scientist,Product-Based Company,714278
+4,BE,Malappuram,Database Administrator,MNC,651296
+1,BCA,Alappuzha,Full Stack Developer,MSME,356155
+7,BA,Thiruvananthapuram,Software Engineer,Sole Proprietorship,607321
+11,MBA,Palakkad,ML Engineer,Partnership,903814
+13,MCom,Idukki,Cloud Engineer,MNC,1124125
+5,MTech,Pathanamthitta,Software Engineer,Service-Based Company,612216
+1,ME,Kottayam,Database Administrator,PSU,473514
+11,BCA,Kannur,Database Administrator,MNC,1006504
+4,MCom,Kozhikode,Data Scientist,Product-Based Company,714616
+0,MCom,Thiruvananthapuram,Data Analyst,Product-Based Company,414603
+11,BCA,Kollam,Data Scientist,Partnership,900113
+9,Diploma,Wayanad,Data Scientist,PSU,871828
+5,BCom,Thrissur,Database Administrator,MSME,557740
+12,MCom,Kannur,Cloud Engineer,MNC,1075238
+11,BCA,Palakkad,Software Engineer,PSU,904760
+8,BCA,Thiruvananthapuram,Business Analyst,MSME,692927
+0,MSc,Kannur,Data Analyst,PSU,356939
+10,MCA,Thiruvananthapuram,Database Administrator,PSU,924599
+10,BSc,Idukki,Software Engineer,Startup,793588
+14,Diploma,Thrissur,Business Analyst,Product-Based Company,1079446
+9,BTech,Palakkad,Business Analyst,MNC,864374
+11,BSc,Kollam,Frontend Developer,PSU,893430
+11,MCA,Ernakulam,AI Engineer,MNC,1114850
+14,MCA,Alappuzha,Data Analyst,Partnership,1000465
+13,MCA,Kollam,Business Analyst,PSU,1017970
+13,BSc,Ernakulam,Database Administrator,Service-Based Company,988629
+14,BE,Wayanad,Frontend Developer,Product-Based Company,1112653
+13,BCom,Pathanamthitta,Software Engineer,Service-Based Company,962831
+2,BCA,Kasaragod,Python Developer,MNC,540569
+11,ME,Kasaragod,Data Analyst,MNC,988724
+6,BCom,Kasaragod,Cloud Engineer,Product-Based Company,739281
+3,MTech,Kozhikode,Data Scientist,MNC,710083
+8,BA,Malappuram,Full Stack Developer,Service-Based Company,737149
+2,BE,Kottayam,Full Stack Developer,PSU,493816
+4,BTech,Kottayam,Software Engineer,PSU,569472
+2,BCom,Kasaragod,Cyber Security Analyst,Startup,423276
+6,ME,Alappuzha,Cyber Security Analyst,Partnership,662635
+4,B.Voc,Palakkad,Software Engineer,MNC,606895
+8,MCA,Thrissur,Database Administrator,Service-Based Company,780994
+6,MCom,Palakkad,Business Analyst,MNC,728499
+1,MTech,Thrissur,AI Engineer,MNC,620040
+3,BA,Palakkad,Data Analyst,MSME,409552
+8,Diploma,Malappuram,Full Stack Developer,Startup,706959
+11,BTech,Kozhikode,Full Stack Developer,Service-Based Company,932413
+13,BA,Kozhikode,AI Engineer,Service-Based Company,1048099
+1,MCA,Kasaragod,Business Analyst,MNC,486499
+9,MCom,Wayanad,Full Stack Developer,Startup,785576
+8,BE,Ernakulam,Data Scientist,PSU,849178
+9,MCom,Wayanad,Cloud Engineer,Service-Based Company,833436
+4,BSc,Kannur,Data Analyst,PSU,534118
+1,MCom,Kozhikode,DevOps Engineer,Startup,404116
+3,BSc,Kozhikode,Full Stack Developer,PSU,528563
+11,MTech,Kollam,Software Engineer,Product-Based Company,1014788
+14,BE,Kollam,Cloud Engineer,MSME,1058928
+11,MBA,Ernakulam,Full Stack Developer,Sole Proprietorship,864568
+6,MCA,Idukki,ML Engineer,Service-Based Company,714847
+11,BSc,Kannur,Data Scientist,Partnership,916155
+12,Diploma,Wayanad,Cloud Engineer,MSME,910135
+7,MCom,Alappuzha,Frontend Developer,Sole Proprietorship,630587
+14,MCom,Kollam,DevOps Engineer,PSU,1109774
+2,Diploma,Alappuzha,Backend Developer,Service-Based Company,418742
+13,B.Voc,Thiruvananthapuram,Software Engineer,PSU,1004309
+0,MTech,Kollam,Software Engineer,Product-Based Company,438619
+3,BCA,Malappuram,Data Analyst,Startup,438658
+1,MBA,Idukki,AI Engineer,Service-Based Company,483340
+7,BTech,Kannur,Cloud Engineer,Sole Proprietorship,657939
+3,ME,Pathanamthitta,Business Analyst,Sole Proprietorship,438337
+1,BSc,Ernakulam,Software Engineer,Product-Based Company,477957
+13,Diploma,Thiruvananthapuram,Cloud Engineer,Product-Based Company,1086001
+5,ME,Pathanamthitta,Database Administrator,MNC,715968
+5,BE,Kannur,Cloud Engineer,Service-Based Company,629846
+9,BSc,Wayanad,Database Administrator,PSU,818892
+3,BCA,Kasaragod,ML Engineer,Partnership,499619
+5,ME,Malappuram,Python Developer,Sole Proprietorship,540281
+12,BE,Kannur,Python Developer,Sole Proprietorship,887420
+14,BA,Malappuram,Backend Developer,Product-Based Company,1114360
+1,MCA,Malappuram,Frontend Developer,MSME,370262
+9,MCom,Alappuzha,Backend Developer,Product-Based Company,873058
+11,BA,Palakkad,Database Administrator,Partnership,836677
+1,BSc,Pathanamthitta,Full Stack Developer,PSU,413724
+9,BCA,Kasaragod,Business Analyst,PSU,797404
+13,MBA,Wayanad,Full Stack Developer,MSME,976178
+3,ME,Thiruvananthapuram,Cyber Security Analyst,Sole Proprietorship,496980
+13,MTech,Kannur,Full Stack Developer,Product-Based Company,1135856
+14,MCA,Thrissur,Data Analyst,MNC,1144200
+14,BSc,Thiruvananthapuram,Full Stack Developer,PSU,1066229
+7,Diploma,Palakkad,Backend Developer,Partnership,640611
+13,MTech,Thiruvananthapuram,Software Engineer,Service-Based Company,1041969
+6,MTech,Kozhikode,Data Scientist,Startup,732467
+11,MTech,Wayanad,Software Engineer,Startup,901124
+8,BCom,Thrissur,Python Developer,Startup,687289
+13,BSc,Palakkad,Data Scientist,MNC,1141239
+7,MCA,Alappuzha,AI Engineer,Sole Proprietorship,721370
+4,MCom,Pathanamthitta,Business Analyst,Product-Based Company,594170
+12,MCom,Kannur,Business Analyst,MSME,870125
+1,BSc,Idukki,Data Analyst,MNC,464641
+14,BE,Kottayam,Backend Developer,MNC,1161504
+4,BCom,Pathanamthitta,Python Developer,PSU,550857
+7,Diploma,Palakkad,ML Engineer,Service-Based Company,733444
+9,MTech,Ernakulam,Cyber Security Analyst,MNC,992784
+8,MTech,Wayanad,Business Analyst,Partnership,702398
+11,BSc,Kannur,Software Engineer,Service-Based Company,881726
+11,BE,Pathanamthitta,Full Stack Developer,Partnership,866735
+11,MCom,Kasaragod,Full Stack Developer,Sole Proprietorship,834638
+12,MCom,Palakkad,AI Engineer,Product-Based Company,1086570
+8,BCA,Kozhikode,Python Developer,Startup,702249
+12,BSc,Kottayam,Backend Developer,MNC,1043110
+14,BCom,Kozhikode,Backend Developer,Product-Based Company,1114595
+12,B.Voc,Kottayam,Frontend Developer,Sole Proprietorship,853605
+0,BCom,Pathanamthitta,Database Administrator,MSME,291115
+8,MCom,Kasaragod,DevOps Engineer,MSME,734294
+6,MCom,Idukki,Business Analyst,Sole Proprietorship,558911
+8,BA,Wayanad,Backend Developer,Partnership,675757
+7,MCom,Ernakulam,AI Engineer,PSU,808595
+0,Diploma,Kannur,Software Engineer,PSU,321969
+11,BTech,Alappuzha,Python Developer,Partnership,843985
+7,BSc,Kozhikode,Cyber Security Analyst,MSME,690275
+7,ME,Kozhikode,Frontend Developer,MSME,682470
+14,BCom,Malappuram,AI Engineer,MNC,1207559
+10,BTech,Kottayam,Cloud Engineer,MSME,850225
+2,BE,Kollam,Data Analyst,Product-Based Company,491556
+0,B.Voc,Idukki,Cyber Security Analyst,MSME,326704
+7,Diploma,Kannur,Database Administrator,Service-Based Company,666206
+2,MCA,Kottayam,Cloud Engineer,MNC,602991
+2,MSc,Malappuram,ML Engineer,Startup,489196
+0,BCom,Thiruvananthapuram,Database Administrator,MSME,298519
+10,BTech,Kottayam,Full Stack Developer,Partnership,818669
+4,MCA,Alappuzha,Data Analyst,Startup,510612
+9,B.Voc,Kannur,Business Analyst,Product-Based Company,832094
+6,BA,Pathanamthitta,Software Engineer,Partnership,564373
+9,MCA,Idukki,Data Analyst,Startup,767582
+8,Diploma,Malappuram,Database Administrator,Partnership,685449
+11,Diploma,Thiruvananthapuram,DevOps Engineer,Product-Based Company,985552
+6,ME,Wayanad,Cloud Engineer,MNC,805646
+8,BA,Thrissur,Business Analyst,Service-Based Company,695238
+7,MSc,Malappuram,Data Scientist,Product-Based Company,851577
+11,BSc,Thrissur,DevOps Engineer,Product-Based Company,1008050
+1,MCA,Kannur,Full Stack Developer,Partnership,391473
+0,BA,Kozhikode,DevOps Engineer,MNC,480061
+6,Diploma,Malappuram,Frontend Developer,Sole Proprietorship,552641
+6,Diploma,Wayanad,Frontend Developer,PSU,644625
+13,BTech,Ernakulam,ML Engineer,MSME,1037504
+7,MCom,Thrissur,Database Administrator,MSME,682089
+4,MSc,Alappuzha,Python Developer,Service-Based Company,536719
+2,MCA,Ernakulam,Cyber Security Analyst,Service-Based Company,505302
+11,ME,Palakkad,Cyber Security Analyst,MSME,922144
+7,ME,Palakkad,Data Scientist,PSU,839259
+5,MCA,Thiruvananthapuram,Data Scientist,MSME,671370
+10,MTech,Idukki,Business Analyst,Sole Proprietorship,782055
+2,B.Voc,Kozhikode,Full Stack Developer,PSU,458440
+0,ME,Kannur,Backend Developer,Service-Based Company,396293
+2,BA,Malappuram,ML Engineer,Startup,442072
+4,B.Voc,Kollam,Frontend Developer,Partnership,466598
+14,BA,Alappuzha,Business Analyst,Sole Proprietorship,935287
+13,BE,Thrissur,Backend Developer,Sole Proprietorship,949965
+2,Diploma,Kannur,Cyber Security Analyst,MNC,554508
+0,MCom,Ernakulam,Python Developer,Service-Based Company,350519
+4,BTech,Kasaragod,DevOps Engineer,Service-Based Company,582380
+9,ME,Palakkad,Frontend Developer,Product-Based Company,906984
+6,MCom,Kasaragod,Business Analyst,Sole Proprietorship,549865
+14,MCom,Wayanad,Data Analyst,Product-Based Company,1084125
+13,MCom,Alappuzha,Backend Developer,Product-Based Company,1075291
+6,MTech,Kollam,DevOps Engineer,Partnership,657033
+10,B.Voc,Malappuram,Frontend Developer,Product-Based Company,881105
+8,BA,Thiruvananthapuram,Cyber Security Analyst,PSU,796087
+14,MBA,Kollam,AI Engineer,MSME,1095133
+14,BE,Alappuzha,Full Stack Developer,Startup,1038958
+9,BCom,Kollam,Backend Developer,Service-Based Company,781704
+9,MCom,Alappuzha,Cyber Security Analyst,PSU,869808
+11,BSc,Alappuzha,Frontend Developer,Startup,844848
+12,B.Voc,Kottayam,Backend Developer,Sole Proprietorship,881592
+2,ME,Thrissur,ML Engineer,Sole Proprietorship,468975
+14,MSc,Pathanamthitta,DevOps Engineer,Sole Proprietorship,1010924
+6,ME,Kasaragod,Frontend Developer,PSU,705208
+0,BTech,Pathanamthitta,ML Engineer,PSU,434212
+3,BCom,Pathanamthitta,Cloud Engineer,Service-Based Company,511614
+12,MBA,Pathanamthitta,Business Analyst,MSME,883488
+3,BSc,Palakkad,AI Engineer,MNC,647114
+13,ME,Kottayam,Data Scientist,Product-Based Company,1189923
+4,MBA,Malappuram,DevOps Engineer,Sole Proprietorship,543257
+6,BCom,Kottayam,Backend Developer,Partnership,593740
+6,MCom,Kozhikode,Full Stack Developer,MSME,621173
+12,BSc,Kozhikode,Cyber Security Analyst,Partnership,937165
+14,MBA,Palakkad,Data Scientist,Service-Based Company,1121667
+10,BTech,Kollam,Data Analyst,Service-Based Company,839213
+12,BA,Thrissur,Cyber Security Analyst,Service-Based Company,954114
+3,Diploma,Palakkad,Backend Developer,Startup,443553
+12,BA,Alappuzha,AI Engineer,Partnership,943761
+6,BCom,Ernakulam,Database Administrator,MSME,598000
+10,B.Voc,Thrissur,Cyber Security Analyst,MNC,962638
+2,Diploma,Idukki,Database Administrator,MSME,393426
+5,BE,Kasaragod,Business Analyst,PSU,595772
+11,BTech,Thrissur,AI Engineer,PSU,997450
+1,BE,Alappuzha,Frontend Developer,Sole Proprietorship,315712
+9,MTech,Alappuzha,ML Engineer,MNC,974367
+12,BSc,Thiruvananthapuram,Data Analyst,PSU,933189
+13,MCA,Pathanamthitta,Software Engineer,Service-Based Company,1006013
+8,Diploma,Palakkad,Backend Developer,MSME,696838
+4,BE,Alappuzha,Python Developer,Partnership,503200
+5,ME,Kozhikode,Software Engineer,Service-Based Company,632156
+11,BE,Pathanamthitta,Cyber Security Analyst,Startup,891726
+11,MBA,Malappuram,Data Scientist,PSU,1018616
+11,BA,Ernakulam,Backend Developer,Service-Based Company,917723
+11,MBA,Kasaragod,ML Engineer,Service-Based Company,976665
+3,MTech,Palakkad,Cloud Engineer,Startup,530806
+13,Diploma,Kannur,ML Engineer,Product-Based Company,1082190
+13,Diploma,Kozhikode,Python Developer,MSME,927108
+10,MTech,Wayanad,Data Analyst,Partnership,799178
+9,BCom,Idukki,ML Engineer,Sole Proprietorship,747875
+6,MBA,Kollam,Full Stack Developer,Product-Based Company,742592
+11,BCA,Alappuzha,Cloud Engineer,PSU,950824
+8,ME,Kannur,Software Engineer,Service-Based Company,767592
+6,MSc,Alappuzha,Frontend Developer,MNC,741927
+13,BA,Thrissur,Business Analyst,Startup,943144
+0,Diploma,Kozhikode,Full Stack Developer,Startup,320443
+0,BCom,Thrissur,Cloud Engineer,MNC,464437
+8,MCA,Thiruvananthapuram,Frontend Developer,MSME,735530
+10,ME,Thrissur,Frontend Developer,Product-Based Company,943010
+13,MBA,Thiruvananthapuram,Backend Developer,Sole Proprietorship,966207
+8,BA,Idukki,Cloud Engineer,MSME,728501
+3,MCA,Thiruvananthapuram,Data Analyst,MNC,616465
+12,MBA,Kannur,Cyber Security Analyst,Service-Based Company,1005537
+8,BE,Pathanamthitta,Python Developer,MNC,825989
+2,MCA,Alappuzha,Python Developer,MSME,428040
+6,MTech,Kollam,Software Engineer,Partnership,622218
+5,BCom,Pathanamthitta,Software Engineer,Startup,549612
+7,BA,Kasaragod,Python Developer,Startup,655441
+10,MCom,Thrissur,ML Engineer,PSU,922471
+8,BSc,Wayanad,Data Analyst,PSU,713863
+13,BSc,Kasaragod,Database Administrator,MNC,1080693
+4,BA,Kozhikode,ML Engineer,Sole Proprietorship,533523
+0,MCA,Thiruvananthapuram,Data Scientist,Service-Based Company,440177
+2,MBA,Alappuzha,ML Engineer,Partnership,456760
+9,BCom,Ernakulam,Business Analyst,Product-Based Company,825011
+11,MSc,Palakkad,DevOps Engineer,MSME,907636
+7,BSc,Kannur,Cyber Security Analyst,Sole Proprietorship,651353
+14,BCom,Kollam,Business Analyst,Service-Based Company,1006783
+10,BSc,Kottayam,Backend Developer,PSU,870556
+5,BE,Kannur,DevOps Engineer,MNC,742598
+7,MBA,Idukki,DevOps Engineer,MSME,702563
+8,BE,Ernakulam,Cloud Engineer,PSU,820051
+3,ME,Wayanad,Data Analyst,MNC,592022
+0,BSc,Palakkad,Data Analyst,MSME,263234
+13,MCom,Ernakulam,DevOps Engineer,Product-Based Company,1131519
+0,MCom,Thrissur,Data Scientist,Service-Based Company,437966
+9,BE,Thiruvananthapuram,ML Engineer,MSME,831829
+3,MTech,Kollam,Cloud Engineer,Partnership,519173
+11,MCom,Malappuram,Cyber Security Analyst,Sole Proprietorship,877121
+13,BSc,Thiruvananthapuram,DevOps Engineer,Startup,1011987
+6,BA,Malappuram,Full Stack Developer,Partnership,587178
+1,BE,Kasaragod,Software Engineer,Partnership,329570
+2,ME,Palakkad,Software Engineer,Sole Proprietorship,415580
+0,MSc,Alappuzha,Business Analyst,Startup,312596
+4,MSc,Kottayam,Backend Developer,Partnership,505406
+0,B.Voc,Kozhikode,AI Engineer,MSME,363206
+7,MCA,Pathanamthitta,AI Engineer,MSME,746431
+0,MBA,Thiruvananthapuram,Software Engineer,MSME,341414
+10,MCom,Kollam,Database Administrator,Startup,841764
+0,MCom,Pathanamthitta,Frontend Developer,Partnership,294627
+1,MCA,Idukki,Business Analyst,MNC,481542
+1,Diploma,Idukki,AI Engineer,Startup,419320
+11,ME,Ernakulam,Software Engineer,MSME,894906
+5,BCA,Pathanamthitta,Backend Developer,Sole Proprietorship,523146
+6,BE,Kollam,AI Engineer,Partnership,669046
+4,MTech,Palakkad,ML Engineer,Partnership,583611
+0,ME,Kasaragod,ML Engineer,PSU,451076
+0,BTech,Malappuram,Data Analyst,PSU,352524
+2,MCom,Ernakulam,Data Scientist,Product-Based Company,625141
+13,MBA,Idukki,Data Analyst,MNC,1070882
+1,B.Voc,Kozhikode,Cyber Security Analyst,MNC,513113
+4,MSc,Kozhikode,DevOps Engineer,Service-Based Company,592645
+11,MCom,Thiruvananthapuram,Full Stack Developer,MNC,1011012
+9,B.Voc,Palakkad,Data Analyst,PSU,773347
+5,BSc,Alappuzha,AI Engineer,Startup,624151
+6,ME,Idukki,Database Administrator,MNC,787948
+3,BSc,Wayanad,Cloud Engineer,PSU,549211
+6,BCA,Palakkad,Software Engineer,Product-Based Company,718117
+10,BA,Kasaragod,Cloud Engineer,Partnership,795610
+7,BTech,Malappuram,Backend Developer,MNC,810884
+10,ME,Kollam,Data Analyst,Product-Based Company,918894
+0,Diploma,Pathanamthitta,Full Stack Developer,Partnership,276467
+14,BCA,Idukki,Backend Developer,Sole Proprietorship,990695
+5,BCom,Pathanamthitta,Frontend Developer,Sole Proprietorship,503489
+7,Diploma,Kozhikode,Frontend Developer,Partnership,624923
+4,BE,Kollam,Cloud Engineer,MNC,676873
+3,MBA,Kollam,DevOps Engineer,Service-Based Company,544289
+1,ME,Kollam,Business Analyst,PSU,424208
+5,BCom,Kozhikode,DevOps Engineer,Startup,587828
+5,BCom,Kasaragod,AI Engineer,Startup,630171
+10,BCA,Pathanamthitta,ML Engineer,MSME,841137
+14,MCA,Kannur,Cyber Security Analyst,Partnership,1066992
+0,BA,Pathanamthitta,DevOps Engineer,Startup,337829
+8,ME,Thrissur,Data Scientist,MNC,960914
+11,MCA,Malappuram,Cyber Security Analyst,Service-Based Company,940286
+10,BCA,Wayanad,Cyber Security Analyst,Partnership,817710
+5,BE,Kannur,Full Stack Developer,Service-Based Company,606371
+12,MSc,Malappuram,Data Analyst,MNC,1026945
+2,MCom,Ernakulam,Full Stack Developer,Startup,465734
+3,MCom,Palakkad,Cyber Security Analyst,Startup,497052
+11,BA,Palakkad,Backend Developer,MSME,842654
+10,BE,Kottayam,Frontend Developer,Startup,827486
+3,MTech,Palakkad,Cyber Security Analyst,Partnership,519743
+2,BA,Pathanamthitta,Full Stack Developer,MNC,537600
+9,ME,Kozhikode,Database Administrator,Sole Proprietorship,784489
+2,ME,Wayanad,Backend Developer,MNC,579636
+14,B.Voc,Alappuzha,Full Stack Developer,Partnership,979441
+2,MCA,Thiruvananthapuram,DevOps Engineer,Partnership,470431
+3,MTech,Kottayam,Software Engineer,MSME,504611
+6,MCom,Thiruvananthapuram,Cloud Engineer,MSME,661587
+3,BCom,Malappuram,Business Analyst,Startup,418667
+8,MCA,Thiruvananthapuram,ML Engineer,Product-Based Company,906149
+0,BTech,Thiruvananthapuram,Full Stack Developer,MNC,462798
+7,ME,Kottayam,Data Scientist,MNC,915421
+6,MBA,Ernakulam,Business Analyst,Product-Based Company,720600
+1,BE,Pathanamthitta,Database Administrator,MSME,371675
+7,Diploma,Kollam,Python Developer,Startup,627495
+0,BA,Palakkad,Full Stack Developer,Product-Based Company,408900
+10,ME,Palakkad,Software Engineer,Startup,843673
+11,MCA,Kozhikode,Business Analyst,Startup,873130
+8,MTech,Kottayam,ML Engineer,Startup,822668
+8,MBA,Kozhikode,Cyber Security Analyst,PSU,828222
+1,MCA,Alappuzha,Full Stack Developer,Partnership,394669
+6,Diploma,Alappuzha,Data Analyst,Startup,553300
+14,MBA,Kozhikode,Database Administrator,PSU,1108253
+13,BTech,Kottayam,Cloud Engineer,MSME,999435
+9,Diploma,Kozhikode,Software Engineer,Product-Based Company,856552
+2,BCA,Palakkad,AI Engineer,Partnership,465481
+6,BSc,Kannur,AI Engineer,Sole Proprietorship,629616
+11,BCA,Thrissur,Data Scientist,Product-Based Company,1043393
+9,MCom,Wayanad,Business Analyst,Partnership,730655
+8,MCA,Thiruvananthapuram,Software Engineer,Sole Proprietorship,704617
+3,ME,Thrissur,Backend Developer,Product-Based Company,611752
+11,ME,Pathanamthitta,ML Engineer,Partnership,922852
+0,ME,Kottayam,Cloud Engineer,Product-Based Company,501207
+1,BSc,Kasaragod,Cyber Security Analyst,Product-Based Company,479295
+0,BCA,Thrissur,Full Stack Developer,Sole Proprietorship,298199
+13,BSc,Wayanad,Full Stack Developer,Product-Based Company,1068456
+11,MSc,Alappuzha,AI Engineer,Product-Based Company,1041225
+4,MCA,Malappuram,Full Stack Developer,Sole Proprietorship,533530
+4,BSc,Thiruvananthapuram,Cloud Engineer,MSME,526316
+10,BCom,Wayanad,Data Analyst,Startup,777083
+6,BA,Kollam,Python Developer,MNC,718337
+8,BA,Kasaragod,Data Scientist,Service-Based Company,788807
+8,BCom,Kottayam,Frontend Developer,PSU,756058
+2,MBA,Thiruvananthapuram,DevOps Engineer,Service-Based Company,493683
+2,B.Voc,Pathanamthitta,Data Scientist,Service-Based Company,486227
+2,MBA,Thrissur,Business Analyst,Partnership,379273
+3,Diploma,Alappuzha,Data Analyst,Startup,425384
+7,MTech,Ernakulam,Data Scientist,Partnership,757145
+5,Diploma,Kannur,Cyber Security Analyst,Startup,565010
+7,BSc,Kollam,AI Engineer,Sole Proprietorship,693035
+0,BCA,Kasaragod,Database Administrator,Sole Proprietorship,264040
+7,BCA,Kannur,Business Analyst,MNC,755654
+3,BA,Thiruvananthapuram,Full Stack Developer,Startup,488252
+10,BE,Alappuzha,Software Engineer,Product-Based Company,928160
+0,MBA,Alappuzha,Cyber Security Analyst,MSME,363866
+7,MSc,Wayanad,Business Analyst,MNC,776563
+3,MCA,Thrissur,Database Administrator,MNC,634633
+5,MCom,Wayanad,ML Engineer,Product-Based Company,735344
+7,BTech,Palakkad,Full Stack Developer,MSME,683014
+3,BCA,Thrissur,Data Scientist,Partnership,516996
+13,MCA,Palakkad,Data Scientist,MSME,1060336
+2,BTech,Wayanad,Business Analyst,Partnership,365853
+13,MCA,Palakkad,Software Engineer,Sole Proprietorship,945695
+8,BSc,Kollam,ML Engineer,Service-Based Company,774852
+2,BTech,Wayanad,Full Stack Developer,Sole Proprietorship,398014
+8,MCom,Thrissur,Database Administrator,Sole Proprietorship,705042
+12,MCA,Idukki,Python Developer,Service-Based Company,945987
+1,BCom,Wayanad,Data Scientist,MSME,402622
+13,MCom,Ernakulam,Database Administrator,MNC,1126711
+1,BTech,Kasaragod,Data Analyst,MSME,350122
+1,MCom,Kozhikode,Data Scientist,Partnership,438225
+5,MCA,Kozhikode,Database Administrator,Product-Based Company,703160
+2,B.Voc,Thrissur,Backend Developer,Partnership,404213
+12,MCA,Thrissur,AI Engineer,Product-Based Company,1127484
+8,MCA,Kannur,DevOps Engineer,Sole Proprietorship,730652
+3,BSc,Kasaragod,Cloud Engineer,Service-Based Company,523016
+0,MBA,Kasaragod,AI Engineer,Sole Proprietorship,360421
+3,BCom,Kollam,DevOps Engineer,Startup,492400
+0,MSc,Thrissur,Cyber Security Analyst,MSME,342769
+13,BCA,Kasaragod,Database Administrator,Product-Based Company,1068727
+4,Diploma,Pathanamthitta,DevOps Engineer,Partnership,497114
+3,MBA,Kannur,Full Stack Developer,Service-Based Company,514358
+7,Diploma,Palakkad,Python Developer,Product-Based Company,748305
+7,BSc,Alappuzha,Backend Developer,Partnership,660482
+6,BCom,Alappuzha,Data Analyst,MSME,577153
+2,ME,Palakkad,Database Administrator,Sole Proprietorship,425164
+0,MCA,Kottayam,Data Analyst,MSME,326584
+0,ME,Kannur,Software Engineer,PSU,402986
+11,ME,Pathanamthitta,Data Scientist,Startup,987670
+10,MTech,Kasaragod,Database Administrator,PSU,907543
+2,BA,Idukki,Cloud Engineer,Service-Based Company,469371
+5,ME,Kannur,Database Administrator,Product-Based Company,710733
+6,BCA,Wayanad,Business Analyst,Service-Based Company,620178
+5,B.Voc,Palakkad,Python Developer,Sole Proprietorship,491699
+13,BA,Pathanamthitta,Business Analyst,Partnership,899625
+13,BSc,Ernakulam,Database Administrator,MSME,954125
+5,MBA,Malappuram,Backend Developer,PSU,645793
+5,B.Voc,Thiruvananthapuram,DevOps Engineer,MNC,726766
+12,MCom,Palakkad,Data Analyst,PSU,936764
+2,BTech,Idukki,Backend Developer,Sole Proprietorship,403485
+5,MTech,Kasaragod,Database Administrator,PSU,658323
+7,B.Voc,Idukki,DevOps Engineer,Sole Proprietorship,635031
+10,MSc,Idukki,Data Analyst,MNC,921052
+10,ME,Thrissur,DevOps Engineer,Service-Based Company,913640
+1,BSc,Thrissur,Cloud Engineer,MSME,378843
+4,BE,Kollam,Python Developer,Product-Based Company,616210
+13,BTech,Palakkad,AI Engineer,Partnership,1027456
+0,Diploma,Kollam,ML Engineer,Product-Based Company,453856
+11,BCA,Palakkad,Cyber Security Analyst,Service-Based Company,916106
+14,Diploma,Kannur,Backend Developer,Partnership,970189
+0,B.Voc,Thiruvananthapuram,Data Scientist,PSU,418472
+4,Diploma,Idukki,Backend Developer,MNC,638622
+11,MSc,Kannur,ML Engineer,MNC,1058091
+12,BSc,Malappuram,AI Engineer,Startup,983188
+2,MCom,Alappuzha,Frontend Developer,Service-Based Company,433704
+3,MBA,Kozhikode,Full Stack Developer,Service-Based Company,521713
+2,BCA,Wayanad,Cloud Engineer,MSME,422051
+0,MSc,Pathanamthitta,Database Administrator,Product-Based Company,426756
+0,MSc,Palakkad,Cloud Engineer,Service-Based Company,373475
+11,Diploma,Malappuram,ML Engineer,Service-Based Company,908610
+11,ME,Alappuzha,Database Administrator,PSU,948255
+13,Diploma,Kasaragod,Data Scientist,PSU,1062484
+12,B.Voc,Kottayam,Business Analyst,Partnership,862399
+13,MBA,Thiruvananthapuram,DevOps Engineer,Sole Proprietorship,998781
+4,BA,Pathanamthitta,Full Stack Developer,Sole Proprietorship,458735
+5,Diploma,Kollam,Python Developer,Startup,548161
+2,BSc,Kollam,Python Developer,Sole Proprietorship,355258
+11,BE,Kannur,ML Engineer,MSME,927637
+8,BCA,Pathanamthitta,Cloud Engineer,Startup,736979
+4,MCA,Thrissur,Python Developer,Partnership,507428
+7,Diploma,Alappuzha,Data Scientist,PSU,764345
+12,BSc,Kottayam,Frontend Developer,Sole Proprietorship,856426
+0,BSc,Malappuram,Backend Developer,Product-Based Company,413533
+13,BCA,Thiruvananthapuram,Software Engineer,PSU,1006249
+4,BA,Alappuzha,Data Scientist,MNC,713350
+14,BSc,Kottayam,Database Administrator,MSME,1012675
+2,BE,Kozhikode,Cyber Security Analyst,PSU,517201
+11,BSc,Palakkad,ML Engineer,MSME,912237
+0,BSc,Kollam,Business Analyst,MSME,282808
+3,BSc,Malappuram,DevOps Engineer,MSME,485258
+14,MCom,Kollam,Cyber Security Analyst,Partnership,1043977
+12,MCom,Malappuram,DevOps Engineer,MSME,939686
+4,BA,Kannur,Data Analyst,MSME,463109
+6,Diploma,Thrissur,Cyber Security Analyst,MNC,761595
+0,BSc,Malappuram,Software Engineer,Product-Based Company,385661
+2,MTech,Kollam,Cloud Engineer,Startup,490075
+1,MBA,Kannur,Frontend Developer,Service-Based Company,418195
+8,MTech,Malappuram,Backend Developer,MNC,895788
+9,Diploma,Kozhikode,Backend Developer,Startup,758060
+14,BA,Thrissur,Frontend Developer,MSME,990836
+5,ME,Malappuram,Full Stack Developer,Product-Based Company,710526
+9,ME,Kannur,Data Analyst,PSU,813374
+2,BCom,Kasaragod,DevOps Engineer,Product-Based Company,542592
+7,MTech,Alappuzha,Software Engineer,MNC,841982
+13,Diploma,Ernakulam,Python Developer,MSME,926207
+7,Diploma,Kottayam,Cyber Security Analyst,Product-Based Company,766665
+1,BTech,Ernakulam,Data Analyst,Sole Proprietorship,330877
+14,B.Voc,Kasaragod,Data Scientist,Product-Based Company,1177197
+5,MCA,Ernakulam,ML Engineer,MSME,640632
+6,BTech,Kasaragod,Cyber Security Analyst,Partnership,645678
+1,BE,Thiruvananthapuram,Software Engineer,Sole Proprietorship,347535
+14,MCom,Kasaragod,Business Analyst,Product-Based Company,1081083
+10,MCom,Kasaragod,Business Analyst,Service-Based Company,832328
+9,B.Voc,Idukki,Database Administrator,Service-Based Company,772711
+1,BCA,Kasaragod,Data Analyst,Product-Based Company,429123
+9,BCA,Kozhikode,Cloud Engineer,Partnership,784103
+0,BA,Alappuzha,Software Engineer,PSU,338123
+7,MSc,Palakkad,Software Engineer,MSME,656754
+0,B.Voc,Malappuram,Frontend Developer,Service-Based Company,302679
+8,MCA,Kottayam,Data Scientist,PSU,873901
+10,Diploma,Thrissur,Cloud Engineer,Product-Based Company,916236
+5,BCA,Alappuzha,Data Scientist,MNC,755446
+6,MCA,Kollam,DevOps Engineer,PSU,720443
+12,BSc,Palakkad,DevOps Engineer,Sole Proprietorship,908154
+9,MTech,Thiruvananthapuram,Python Developer,Startup,811463
+6,MTech,Thiruvananthapuram,Database Administrator,Service-Based Company,712301
+9,MSc,Wayanad,Backend Developer,Product-Based Company,898116
+2,MBA,Kasaragod,Business Analyst,MNC,540483
